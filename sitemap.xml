@@ -2,14 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://respectren.github.io/about/index.html</loc>
+    <loc>https://respectren.github.io/2021/03/24/Postgraduate-Recommendation-2/</loc>
     
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-03-23</lastmod>
     
   </url>
   
   <url>
-    <loc>https://respectren.github.io/2020/12/21/hello-world-1/</loc>
+    <loc>https://respectren.github.io/2020/10/22/Hexo-Guidelines/</loc>
+    
+    <lastmod>2021-03-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://respectren.github.io/2021/03/24/Postgraduate-Recommendation-1/</loc>
+    
+    <lastmod>2021-03-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://respectren.github.io/about/index.html</loc>
     
     <lastmod>2021-03-21</lastmod>
     
@@ -29,13 +43,6 @@
     
   </url>
   
-  <url>
-    <loc>https://respectren.github.io/2020/10/22/hello-world/</loc>
-    
-    <lastmod>2020-10-21</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://respectren.github.io/</loc>
@@ -45,24 +52,17 @@
   </url>
 
   
-  <url>
-    <loc>https://respectren.github.io/tags/hexo/</loc>
-    <lastmod>2021-03-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://respectren.github.io/tags/next/</loc>
-    <lastmod>2021-03-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://respectren.github.io/categories/hello/</loc>
+    <loc>https://respectren.github.io/categories/Guidelines/</loc>
+    <lastmod>2021-03-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://respectren.github.io/categories/%E7%BB%8F%E5%8E%86/</loc>
     <lastmod>2021-03-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
