@@ -27,16 +27,25 @@
       </categories>
   </entry>
   <entry>
-    <title>乔家大院和平遥古城</title>
-    <url>/2021/03/24/shanxi/</url>
+    <title>jekyll</title>
+    <url>/2022/10/18/jekyll/</url>
+    <content><![CDATA[<p>TO Compare: jekyll vs hexo + Travis CI</p>
+]]></content>
+      <categories>
+        <category>Guideline</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>婺源随笔</title>
+    <url>/2021/03/24/wuyuan/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>游记</category>
       </categories>
   </entry>
   <entry>
-    <title>婺源随笔</title>
-    <url>/2021/03/24/wuyuan/</url>
+    <title>乔家大院和平遥古城</title>
+    <url>/2021/03/24/shanxi/</url>
     <content><![CDATA[]]></content>
       <categories>
         <category>游记</category>
